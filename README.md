@@ -12,6 +12,13 @@
 - Permissioned blockchain networks
 - Consortium blockchains
 
+## Features:
+1) Decentralized - No controlled by single entity 
+2) Transparency and Flexibility - Every can see whats hapenning 
+3) Speed and Efficiency - Quick and Fast 
+4) Secuirty and Immutability - Cannot be tampered or corrupted 
+5) Removal of counterparty risk - 
+6) Trust Minimized Agreements - 
+7) Hybrid Smart Contracts 
 
-
- 
+## DAOs : Decentralized Autonomous Organization
