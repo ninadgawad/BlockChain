@@ -21,4 +21,7 @@
 6) Trust Minimized Agreements - 
 7) Hybrid Smart Contracts 
 
-## DAOs : Decentralized Autonomous Organization
+## Keywords
+- Genesis Block - The first block on a blockchain network
+- DAOs : Decentralized Autonomous Organization
+
