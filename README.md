@@ -25,3 +25,8 @@
 - Genesis Block - The first block on a blockchain network
 - DAOs : Decentralized Autonomous Organization
 
+
+
+### Links:
+[Solidity](https://docs.soliditylang.org/en/v0.8.11/index.html)
+
