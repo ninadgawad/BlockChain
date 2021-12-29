@@ -28,5 +28,5 @@
 
 
 ### Links:
-[Solidity](https://docs.soliditylang.org/en/v0.8.11/index.html)
-
+- [Solidity](https://docs.soliditylang.org/en/v0.8.11/index.html)
+- [Reference Material](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
