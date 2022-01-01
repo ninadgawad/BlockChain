@@ -39,6 +39,12 @@
 - NFT: Nonfungible Token
 - HODL: Hold On for Dear Life
 
+## Overview
+1) Timestamped append-only log
+2) Auditable database
+3) Consensus protocol 
+
+
 
 ### Links:
 - [Solidity](https://docs.soliditylang.org/en/v0.8.11/index.html)
