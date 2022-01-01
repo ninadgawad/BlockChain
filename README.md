@@ -24,7 +24,8 @@
 
 ## Sectors which Blockchain can help with:
 1) Trade Finance
-2) Real state
+- [We.Trade](https://www.ibm.com/case-studies/we-trade-blockchain)
+2) Real Estate
 3) Medical Records
 
 ## Keywords
