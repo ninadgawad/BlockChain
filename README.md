@@ -23,8 +23,13 @@
 
 ## Keywords
 - Genesis Block - The first block on a blockchain network
-- DAOs : Decentralized Autonomous Organization
-
+- DAOs: Decentralized Autonomous Organization
+- dApps: Decentralized App
+- DeFi: Decentralized Finance
+- Fiat: Fiat is a term for government issued currencies, like the U.S. dollar or Japanese yen
+- Gas: Gas is the cost of computing power when completing transactions on the Ethereum blockchain
+- ICO: Initial Coin Offering
+- NFT: Nonfungible Token
 
 
 ### Links:
