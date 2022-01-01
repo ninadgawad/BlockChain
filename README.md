@@ -30,6 +30,7 @@
 - Gas: Gas is the cost of computing power when completing transactions on the Ethereum blockchain
 - ICO: Initial Coin Offering
 - NFT: Nonfungible Token
+- HODL: Hold On for Dear Life
 
 
 ### Links:
