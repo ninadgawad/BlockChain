@@ -21,6 +21,12 @@
 6) Trust Minimized Agreements - 
 7) Hybrid Smart Contracts 
 
+
+## Sectors which Blockchain can help with:
+1) Trade Finance
+2) Real state
+3) Medical Records
+
 ## Keywords
 - Genesis Block - The first block on a blockchain network
 - DAOs: Decentralized Autonomous Organization
