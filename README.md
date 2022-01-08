@@ -1,6 +1,9 @@
 # Block Chain
- A distributed database or a digital ledger of transactions that is shared among many nodes of a computer network; it stores information electronically in a digital format and best known for their crucial role in cryptocurrency systems. 
+ A distributed database or a digital ledger of transactions that is shared among many nodes of a computer network; it stores information electronically in a digital format and best known for their crucial role in cryptocurrency systems.
  
+One key difference between a typical database and a blockchain is how the data is structured. A blockchain collects information together in groups, known as blocks, that hold sets of information. Blocks have certain storage capacities and, when filled, are closed and linked to the previously filled block, forming a chain of data known as the blockchain. All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled.
+
+
 ## Key Points:
 - Distributed ledger technology
 - Immutable records
@@ -50,3 +53,4 @@
 - [Solidity](https://docs.soliditylang.org/en/v0.8.11/index.html)
 - [Reference Material](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 - [Blockchain-and-Money Course](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/)
+- [Blockchain by investopedia](https://www.investopedia.com/terms/b/blockchain.asp)
