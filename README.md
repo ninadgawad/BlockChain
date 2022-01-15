@@ -31,6 +31,21 @@ One key difference between a typical database and a blockchain is how the data i
 2) Real Estate
 3) Medical Records
 
+## Top Programming Languages for Blockchain 
+1) C++ 
+2) Python
+3) Java
+4) Solidity
+5) Vyper
+6) C#
+7) Simplicity
+8) Rholang
+9) Javascript
+10) Go
+11) Rust
+12) Kotlin
+
+
 ## Keywords
 - Genesis Block - The first block on a blockchain network
 - DAOs: Decentralized Autonomous Organization
