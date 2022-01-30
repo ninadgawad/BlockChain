@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity >=0.5.0 <0.9.0;
+pragma solidity ^0.6.0;
 
 contract BlockStore {
 
-	uint256 houseNumber;
+    uint256 houseNumber;
 
     struct Location {
         uint256 houseNumber;
