@@ -1,12 +1,10 @@
 pragma solidity ^0.6.0;
 
 // This contract represents a simple token which track of the total supply and balance of the token for each address
-
-// The token has a name, symbol, and total supply
-// It also has a function that allows transfers of the token between addresses
+// The token has a name, symbol, and total supply and has a function that allows transfers of the token between addresses
 
 contract SampleSolidityToken  {
-    // Token details
+
     string public name;
     string public symbol;
     uint256 public totalSupply;
